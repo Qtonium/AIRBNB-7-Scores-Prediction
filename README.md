@@ -16,3 +16,6 @@ Download the `listings.csv` and `reviews.csv` files from the "Dublin, Leinster, 
 3. Pay attention to feature selection and select two distinct machine learning approaches to apply to the dataset.
 4. Critically evaluate the prediction performance of the chosen approaches.
 5. Justify design choices, explain methods, and present supporting data and conclusions in a clear manner.
+
+
+![Image 1](https://github.com/Qtonium/Maze-using-using-AI/blob/main/Images/Comparision-01.png)
