@@ -18,7 +18,6 @@ Download the `listings.csv` and `reviews.csv` files from the "Dublin, Leinster, 
 5. Justify design choices, explain methods, and present supporting data and conclusions in a clear manner.
 
 
-![Image 1](https://github.com/Qtonium/AIRBNB-7-Scores-Prediction/blob/main/images/MLFinalAssignment_merged-01.png)
 ![Image 2](https://github.com/Qtonium/AIRBNB-7-Scores-Prediction/blob/main/images/MLFinalAssignment_merged-02.png)
 ![Image 3](https://github.com/Qtonium/AIRBNB-7-Scores-Prediction/blob/main/images/MLFinalAssignment_merged-03.png)
 ![Image 4](https://github.com/Qtonium/AIRBNB-7-Scores-Prediction/blob/main/images/MLFinalAssignment_merged-04.png)
